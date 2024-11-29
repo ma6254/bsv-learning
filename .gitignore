@@ -1,0 +1,4 @@
+**/impl/
+**/*.gprj.user
+
+/src/led_blink/*.v
