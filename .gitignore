@@ -3,3 +3,4 @@
 
 /src/led_blink/*.v
 /src/led_flow/*.v
+/src/uart_tx/*.v
