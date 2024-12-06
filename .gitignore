@@ -1,6 +1,13 @@
 **/impl/
+**/build/
 **/*.gprj.user
 
 /src/led_blink/*.v
 /src/led_flow/*.v
+/src/key_test_1/src/*.v
 /src/uart_tx/*.v
+/src/uart_rx/*.v
+
+*.bo
+*.vcd
+*.log
