@@ -10,6 +10,7 @@
 | [led_flow](src/led_flow/)    | LED流水灯                                  |
 | [uart_tx](src/uart_tx)       | 串口发送，115200波特率，输出`hello world!` |
 | [key_test_1](src/key_test_1) | 按键测试程序1，控制LED上下走动             |
+| [uart_rx](src/uart_rx)       | 串口接收, 发送`5A`点亮LED, 发送`A5`熄灭LED |
 
 ### 需要设置安装了BSV编译器的WSL分发版本
 
